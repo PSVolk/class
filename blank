@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+  <html>
+    <head>
+     <meta charset="utf-8" />
+	 <title>список стран</title>
+	 <link rel="stylesheet" href="style.css">
+	 
+	</head>
+	
+   
+	 <body>
+ <!-- <h1>список стран</h1>
+  
+	 <ol >
+ <li> Азербайджан </li>
+	<ul>
+	<li>Фрунзе</li>
+	</ul>
+ <li> Армения </li>
+	<ul>
+	<li>Ереван</li>
+	</ul>
+ <li> Белоруссия</li>
+	<ul>
+	<li>Минск</li>
+	</ul>
+	<li>Башкирия </li>
+ <li> Грузия </li>
+ <li> Япония </li>
+</ol>-->
+<ol>
+ <li id="winter">Зима
+ <ul>
+ <li>Декабрь</li>
+ <li>Январь</li>
+ <li>Февраль</li>
+ </ul>
+ </li>
+ <li id="spring">Весна
+ <ul>
+ <li>Март</li>
+ <li>Апрель</li>
+ <li>Май</li>
+ </ul>
+ </li>
+ <li id="summer">Лето
+ <ul>
+ <li>Июнь</li>
+ <li>Июль</li>
+ <li>Август</li>
+ </ul>
+ </li>
+<li id="autumn">Осень
+ <ul>
+ <li>Сентябрь</li>
+ <li>Октябрь</li>
+ <li>Ноябрь</li>
+ </ul>
+ </li>
+</ol>
+  </body>
+  </html>
