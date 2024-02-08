@@ -1,0 +1,9 @@
+
+#winter { color: rgb(0, 0, 200); }
+#spring { color: rgb(0, 190, 0); }
+#summer { color: gold; }
+#autumn { color: #d96c00; }
+#winter li { list-style-image: url(C:/Users/Python41/Downloads/1.png); }
+#spring li { list-style-image: url(C:/Users/Python41/Desktop/2.png); }
+#summer ul { list-style-image: url(C:/Users/Python41/Desktop/3.png); }
+#autumn ul { list-style-image: url(C:/Users/Python41/Desktop/4.png); }
