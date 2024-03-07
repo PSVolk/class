@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Язык браузера</title>
+</head>
+<body>
+    <h1>Язык браузера</h1>
+    <p id="browserLanguage"></p>
+
+    <script>
+        // Получаем элемент, в котором будет отображаться текущий язык браузера
+        var browserLanguageElement = document.getElementById("browserLanguage");
+
+        // Получаем язык браузера из свойства navigator.language
+        var browserLanguage = navigator.language;
+
+        // Отображаем язык в элементе на странице
+        browserLanguageElement.innerText = browserLanguage;
+    </script>
+</body>
+</html>
